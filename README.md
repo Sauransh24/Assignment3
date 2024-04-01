@@ -1,7 +1,3 @@
-To convert the provided document into a Git README.md format, you can follow the Markdown syntax. Here's the converted text:
-
----
-
 # Stock Market Analysis using Heap Data Structure
 
 Author: Sauransh Nayyar  
