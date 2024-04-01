@@ -8,8 +8,7 @@ Author: Sauransh Nayyar
 Student ID: 23200301  
 Email: sauransh.nayyar@ucdconnect.ie  
 Date: April 01, 2024
-
-[🔗 Video Link (Password: y23@PMy$)](https://example.com/video)  
+  
 [🔗 GitHub Link](https://github.com/sauranshnayyar/stock-analysis)
 
 ## Abstract
